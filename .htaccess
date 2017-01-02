@@ -1,0 +1,8 @@
+#aktifkan Rewrite
+RewriteEngine On
+
+#autran rewrtie
+#RewriteRule 
+
+#DirectoryIndex 
+Redirect /koneksi.php /data-siswa/index.php
